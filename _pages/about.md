@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Click to follow me ^-^"
+title: "H E L L O"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
